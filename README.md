@@ -1,6 +1,7 @@
 # PHP Nested Set
 
 A comprehensive library implementing the nested set pattern in PHP using PDO.
+This library is still in development and not yet working, please feel free to contribute.
 
 [![Build Status](https://travis-ci.org/spiritix/nested-set.svg?branch=master)](https://travis-ci.org/spiritix/nested-set)
 [![Code Climate](https://codeclimate.com/github/spiritix/nested-set/badges/gpa.svg)](https://codeclimate.com/github/spiritix/nested-set)
@@ -23,10 +24,11 @@ Add ``spiritix/nested-set`` as a require dependency in your ``composer.json`` fi
 
 ## Features
 
+TODO
 
 ## Usage
 
-
+TODO
 
 ## License
 
